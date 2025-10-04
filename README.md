@@ -145,7 +145,7 @@ A. The message occurs when you use PeerJS with Webpack. It is not critical! It r
 
 Check out this interactive walkthrough of the `peerjs` codebase on CodeCanvas [here](https://www.code-canvas.com/?session=unauthenticatedGithub&repo=peerjs&owner=peers&branch=master&OnboardingTutorial=true).
 
-<img width="1916" alt="CodeCanvas Screenshot" src="https://codecanvas-media-public.s3.amazonaws.com/images/codecanvas-readme-screenshot.png" />
+<img width="1889" height="899" alt="image" src="https://github.com/user-attachments/assets/dc2075e7-3c7e-4c81-bbb6-7034f0e0aa86" />
 
 ### [PeerServer](https://github.com/peers/peerjs-server)
 
