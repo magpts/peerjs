@@ -40,6 +40,7 @@ const peer = new Peer("pick-an-id");
 ```javascript
 const conn = peer.connect("another-peers-id");
 conn.on("open", () => {
+    // ID of the other end is conn.peer
 	conn.send("hi!");
 });
 ```
